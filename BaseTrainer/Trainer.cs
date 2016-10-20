@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 using System.Windows.Forms;
+//Get Latest source at https://github.com/I-M-I/BaseTrainer
 
 namespace BaseTrainer
 {
