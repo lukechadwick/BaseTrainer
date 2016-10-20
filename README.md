@@ -6,7 +6,7 @@ BaseTrainer
 
 Features:
 ----------
-- Reading / Writing Bytes / Floats / Integers / Doubles / Strings
+- Reading & Writing Bytes / Floats / Integers / Doubles / Strings
 - Signature scanning for byte patterns
 - Finding the base address of and executable or module
-- Finding the Address of multi level pointers.
+- Finding the Address of multi level pointers
