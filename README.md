@@ -2,7 +2,8 @@ Base Trainer
 =============================
 *Basic Trainer for C# Memory Manipulation of Other Processes*
 
-- This intents to provide easy to understand C# examples of the following operations:
+- A source to build off to make C# trainer programs
+- This intends to provide easy to understand C# examples of the following operations:
 
 Features:
 ----------
