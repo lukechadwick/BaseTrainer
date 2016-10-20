@@ -4,7 +4,7 @@ BaseTrainer
 
 - This intents to provide easy to understand C# examples of the following operations:
 
-Can also:
+Features:
 ----------
 - Reading / Writing Bytes / Floats / Integers / Doubles / Strings
 - Signature scanning for byte patterns
